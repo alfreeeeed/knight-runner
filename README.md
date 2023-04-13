@@ -1,1 +1,1 @@
-# knight-runner
+First game created in Godot. I experimented with various ideas but didn't focus on polishing the game, it also still includes my test level. Therefore, if you come across this page, please do not have any high expectations.
